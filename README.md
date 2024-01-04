@@ -21,8 +21,8 @@ $ pip install sqlalchemy
 ```bash
 Run the view script. It will create the Database automatically.
 ```
-## SCREENSHOTS:
 
+## SCREENSHOTS:
 <img alt="Main menu" src="/img1.PNG"><br>
 <img alt="Customer menu" src="/img2.PNG"><br>
 <img alt="Bank Statement" src="/statement.PNG">
