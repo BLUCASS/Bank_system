@@ -13,6 +13,7 @@ This is a bank system written in Python, utilizing SQLAlchemy and SQLite. It ena
 # Clone this project:
 $ git clone https://github.com/BLUCASS/login_sys.git
 ```
+
 ## HOW TO RUN THE PROJECT:
 ```bash
 # Install the dependences:
